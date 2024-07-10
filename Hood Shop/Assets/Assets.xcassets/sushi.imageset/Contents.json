@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "B-10-MAKI-VISION.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "B-10-MAKI-VISION 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "B-10-MAKI-VISION 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

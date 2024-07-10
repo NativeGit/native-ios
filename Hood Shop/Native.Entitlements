@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>com.apple.developer.associated-domains</key>
+    <array>
+        <string>applinks:hoodapp.co.uk</string>
+        <string>applinks:bricklanebeigel.co.uk</string>
+        <string>applinks:minitel.co.uk</string>
+        <string>webcredentials:hoodapp.co.uk</string>
+        <string>webcredentials:minitel.co.uk</string>
+        <string>webcredentials:example.com</string>
+    </array>
+    <key>com.apple.developer.in-app-payments</key>
+    <array>
+        <string>merchant.Hood</string>
+        <string>merchant.hood.uk</string>
+        <string>merchant.hood23</string>
+    </array>
+</dict>
+</plist>

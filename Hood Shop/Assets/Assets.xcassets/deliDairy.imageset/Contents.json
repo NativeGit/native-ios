@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Panzers-Catering-093-2048x1463.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Panzers-Catering-093-2048x1463 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Panzers-Catering-093-2048x1463 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
