@@ -3,6 +3,8 @@ import WebKit
 import Kingfisher
 
 struct OrderView: View {
+  //  echo "This is a test file." > testfile.txt
+
     @StateObject private var viewModel = OrderViewModel()
     @State private var showActionSheet = false
     @State private var showCamera = false
